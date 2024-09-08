@@ -1,0 +1,420 @@
+body{
+          margin: 0;
+}
+
+.outer{
+          width: 100%;
+          height: 4550px;
+          background-color: black;
+          
+         
+         
+}
+
+.header
+{
+          width: 100%;
+          height: 700px;
+          padding-top: 10px;
+          background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://assets.nflxext.com/ffe/siteui/vlv3/b2c3e95b-b7b5-4bb7-a883-f4bfc7472fb7/19fc1a4c-82db-4481-ad08-3a1dffbb8c39/IN-en-20240805-POP_SIGNUP_TWO_WEEKS-perspective_WEB_24a485f6-1820-42be-9b60-1b066f1eb869_large.jpg'); 
+          background-size: cover;
+          background-position: center;
+          background-blend-mode: darken;
+
+
+         
+         
+}
+
+
+      
+.logo{
+          width: 50%;
+          height: 200px;
+         
+          
+          float: left;
+}
+
+.logo-rightside{
+          width: 50%;
+          height: 200px;
+         margin-top: 25px;
+          float: left;
+}
+
+
+.netflix-logo{
+          color: red;
+          margin-left: 180px;
+         margin-top: 20px;
+         
+          width: 50%;
+          font-weight: bold;
+          font-size: 40px;
+          font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+
+              
+          
+}
+
+
+
+.lang-select{
+          color: white;
+          background-color:black;
+         margin-left: 350px; 
+          border-radius: 1px;
+          height: 30px;
+          width: 90px;
+          
+        
+}
+
+.button-hover{
+      font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+      font-size: 1.5rem;
+      font-weight: 450;
+      background-color:  rgb(229, 9, 20); color: #fff; 
+      
+      
+      width: 170px;
+       height: 55px;
+       border-radius: 5px;
+       border-color: brown;
+}
+.button-hover:hover{
+     
+      background-color:rgb(153, 22, 29);
+
+}
+
+
+.login-button{
+          background-color:  rgb(229, 9, 20);
+          
+          color: white;
+          height: 30px;
+          margin-left: 20px;
+          width: 90px;
+          box-sizing: border-box;
+          border-style: solid;
+          border-width: 0.0625rem;
+          border-radius: calc(0.25rem - 0.0625rem);
+         
+        
+
+}
+
+.login-button:hover{
+          background-color:rgb(153, 22, 29);
+}
+
+.header-content{
+          
+          margin-top: 90px;
+           height: 450px;
+          width: 100%;
+          padding-left: 40px;
+          
+}
+
+
+.plane-bar{
+          height: 9px;
+          width: 100%;
+          background-color: rgb(35,35,35);
+          float: left;
+          margin-top: 151px;
+}
+
+.second-page{
+          float: left;
+          height: 550px;
+          width: 100%;
+          
+
+}
+
+.second-page-left{
+          width:50%;
+          height: 450px;
+          color: #fff;
+         
+         
+          
+          float: left;
+          
+          
+}
+
+
+.second-page-right{
+          position: relative;
+         float: left;  
+          width:50%;
+          height: 450px;
+          
+         
+      
+}
+
+.animation-image{
+          position: absolute;
+          top: 10%;
+    left: 1%;
+          z-index: 10; 
+          
+}
+
+.animation-video{
+          position: absolute;
+          top: 30%;
+          left: 13%;  
+            
+}
+
+
+
+.third-page{
+          float: left;
+          height: 550px;
+          width: 100%;
+          
+
+}
+
+.fourth-page{
+          float: left;
+          height: 550px;
+          width: 100%;
+          
+
+}
+
+
+.fifth-page{
+          float: left;
+          height: 610px;
+          width: 100%;
+          
+
+}
+
+
+.animation-image-fourth{
+          position: absolute;
+          top: 20%;
+    left: 1%;
+          z-index: 10; 
+          
+}
+
+.animation-video-fourth{
+          width: 340px;
+    height: 300px;
+    position: absolute;
+    top: 18%;
+    left: 21%;
+            
+}
+
+.static-image{
+          position: absolute;
+          width: 550px;
+          top: 20%;
+    left: 35%;
+         
+          
+}
+
+.last-page{
+      float: left;
+          height: 970px;
+          width: 100%;
+          
+       
+}
+
+.lastpage-heading{
+      color: #fff;
+      height: 100px;
+      width: 100%;
+      margin-left: 600px;
+     
+
+}
+
+.lastpage-block{
+      height: 800px;
+      width: 100%;
+      
+}
+
+
+.main-heading-font{
+      font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+
+      
+}
+
+.header-inputfield{
+      height: 100px;
+      width: 100%;
+}
+
+.email-adress{
+      height: 100px;
+      width: 50%;
+      float: left;
+}
+
+.get-started{
+      height: 100px;
+      width: 50%;
+      float: left;
+      
+}
+
+.ad-box{
+
+      height: 100px;
+      width: 300px;
+      border-radius: 15px;
+      border-color:grey;
+      border-style: ridge;
+      color: #fff;
+      left: 50.5%;
+      top: 75%;
+      z-index: 10px;
+      position: absolute; 
+     background-color: black;
+      display: flex;
+      gap: 20px;
+     
+      
+      
+}
+
+.download-animation{
+      
+
+width: 3rem;
+height: 3.75rem;
+      margin-top: 25px;
+      margin-left: 29px;
+
+background: url('https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif') center center no-repeat;
+background-size: 100%;
+
+
+
+
+    
+     
+}
+
+.list-styles{
+      height: 80px;
+      width: 1200px;
+      background-color: rgb(49, 47, 47);
+      margin-left: 280px;
+      display: flex;
+     
+      gap: 30px;
+
+}
+
+
+
+.plane-bar-lastblock{
+      height: 9px;
+      width: 100%;
+      background-color: rgb(35,35,35);
+      float: left;
+      margin-top: 10px;
+}
+
+.footer{
+
+      height: 500px;
+      width: 100%;
+     
+      float: left;
+
+}
+
+.contact-number{
+      margin-top: 60px;
+      margin-left: 310px;
+      color:rgba(255, 255, 255, 0.7);
+      
+      
+}
+
+.big-container{
+      height: 250px;
+      width: 100%;
+   
+      
+    
+      
+}
+.first{
+      height: 250px;
+      width: 250px;
+      float: left;
+      margin-left: 270px;
+      
+}
+
+.second{
+      height: 250px;
+      width: 250px;
+      float: left;
+      margin-left: 80px;
+}
+
+.third{
+      height: 250px;
+      width: 250px;
+      float: left;
+      margin-left: 80px;
+}
+
+.fourth{
+      height: 250px;
+      width: 250px;
+      float: left;
+      margin-left: 80px;
+}
+
+ul{
+      list-style: none;
+      
+      line-height: 50px;
+      
+}
+
+
+a{
+      color:rgba(255, 255, 255, 0.7);
+      font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.footer-last-part{
+      height: 100px;
+      width: 100%;
+}
+
+
+.lang-select-footer{
+      color: white;
+      background-color:black;
+     margin-left: 310px; 
+      border-radius: 1px;
+      height: 30px;
+      width: 90px;
+      
+    
+}
